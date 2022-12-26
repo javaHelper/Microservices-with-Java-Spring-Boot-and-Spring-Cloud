@@ -28,3 +28,5 @@ Response:
     }
 }
 ```
+
+<img width="1261" alt="Screenshot 2022-12-26 at 1 51 54 PM" src="https://user-images.githubusercontent.com/54174687/209524293-d06e180e-2b01-4ccd-9c96-0d0a43abb87c.png">
